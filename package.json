@@ -1,0 +1,26 @@
+{
+  "name": "u-rem.js",
+  "version": "1.0.0",
+  "description": "This is a mobile end layout Library.",
+  "main": "u-rem.min.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allcky/u-rem.js.git"
+  },
+  "keywords": [
+    "u-rem",
+    "rem"
+  ],
+  "author": "hnz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allcky/u-rem.js/issues"
+  },
+  "homepage": "https://github.com/allcky/u-rem.js#readme"
+}
