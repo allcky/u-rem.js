@@ -9,9 +9,9 @@ This is a mobile end layout Library.
 npm install --save u-rem.js
 ```
 ## 下载(Download)
-https://github.com/allcky/u-rem.js/releases/download/v1.0.0/u-rem.min.js
+https://unpkg.com/u-rem.js@1.0.1/u-rem.js
 
-https://github.com/allcky/u-rem.js/releases/download/v1.0.0/u-rem.js
+https://unpkg.com/u-rem.js@1.0.1/u-rem.min.js
 ## 使用(Use)
 > 注意：
 如没有添加meta[name=viewport]引入库后，会自动添加。

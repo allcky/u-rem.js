@@ -25,6 +25,5 @@
         fontEl.innerHTML = 'html{font-size:' + rem + 'px!important;}';
     }
     win.addEventListener(resizeEvt,recalc,false);
-    win.addEventListener('DOMContentLoaded',recalc, false);
-	
+    recalc();	
 })(window,document)
