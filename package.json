@@ -1,18 +1,20 @@
 {
   "name": "u-rem.js",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "This is a mobile end layout Library.",
   "main": "u-rem.min.js",
-  "directories": {
-    "test": "test"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/allcky/u-rem.js.git"
   },
   "keywords": [
     "u-rem",
-    "rem"
+    "u-rem.js",
+    "rem",
+    "rem.js",
+    "rem布局",
+    "移动端布局",
+    "手机布局"
   ],
   "author": "hnz",
   "license": "ISC",
